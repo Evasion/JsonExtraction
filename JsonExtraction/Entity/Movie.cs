@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace JsonExtraction
+namespace JsonExtraction.Entities
 {
     public class FilmParams
     {
